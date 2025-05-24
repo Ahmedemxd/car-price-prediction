@@ -12,7 +12,7 @@ This is a Machine Learning project that predicts the price of a used car based o
 - Predictive Output
 - Optional: Interactive input with `streamlit` or simple UI
 
-- Pytho
+- Python
 - Pandas
 - NumPy
 - Scikit-learn
